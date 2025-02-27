@@ -32,14 +32,26 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 My Studies'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+           What am I learning now?👀
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+           Currently, I am focused on:
+
+            ▫️ Deepening my knowledge of Python for data analysis and automation.
+
+            ▫️ Exploring frameworks and tools for backend development.
+
+            ▫️ Improving my Git and team collaboration skills.
+
+            ▫️ Mastering SQL with a focus on Oracle’s MySQL Server for database management and manipulation.
+
+            ▫️ Exploring Oracle Cloud Infrastructure (OCI) for cloud solutions and scalable infrastructure.
+
+            ▫️ Studying Generative AI and its applications in innovative projects.
+
+            <b> Please reach out to collaborate 🚀</b>
     design:
       columns: '1'
   - block: collection
