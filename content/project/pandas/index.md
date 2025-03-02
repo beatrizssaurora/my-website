@@ -1,13 +1,9 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Decodificador de Texto
+external_link: https://github.com/beatrizssaurora/Challenge-Decodificador-de-Texto
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Programming logic: Develop efficient algorithms to manipulate strings and perform encoding and decoding operations.
 
 <!--more-->
