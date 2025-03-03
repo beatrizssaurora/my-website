@@ -49,10 +49,7 @@ education:
     date_start: 
     date_end: 
     summary: 
-    button:
-      text: 
-      url: 
- 
+
   
 
 # Skills
