@@ -1,8 +1,8 @@
 ---
-title: "Publication 01"
+title: "Cover letter"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2025-03-04T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -10,17 +10,17 @@ publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ["article"]
+# Enter a publication type from the CSL standard
 
-# Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
 
-abstract: 
+abstract: Welcome to my digital portfolio!
+
+ Here, I share my professional journey, projects and passions. 
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: Welcome to my digital portfolio!
+
+ Here, I share my professional journey, projects and passions. 
 
 tags:
 - 
@@ -29,9 +29,9 @@ featured: true
 
 links:
 - name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+  url: 
+url_pdf: 
+url_code: ''
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
@@ -42,7 +42,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 
   focal_point: ""
   preview_only: false
 
@@ -65,7 +65,25 @@ slides: example
 
 
 {{% callout note %}}
-------- ?
+Cover letter under construction 🛠️
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+
+
+Welcome to my digital portfolio!
+
+Here, I share my professional journey, projects and passions. I am Beatriz dos Santos Silva, a Bioprocess and Biotechnology Engineer graduated from the São Paulo State University "Júlio de Mesquita Filho" - UNESP.
+
+Throughout my career, I have dedicated myself to developing soft skills and acquiring hard skills in technology, keeping up with the constant innovations in the market. I believe that storms are temporary, determination and resilience are essential to overcome challenges and achieve goals.
+
+In this portfolio, I present projects developed in JavaScript and Python, acquired through personal research or through participation in bootcamps, which reflect my philosophy of continuous learning. I constantly seek to explore new technologies to create innovative and impactful solutions in the future.
+
+I am passionate about cybersecurity and believe in the importance of sharing knowledge. The opportunities I have received have inspired me to give back, sharing my knowledge with others. I believe that creativity and collaboration are essential for success in any field.
+
+I invite you to explore my portfolio and learn more about my work and passions. If you have any questions or are interested in collaborating, please contact me.
+
+Thank you for visiting!
+
+Sincerely,
+
+Beatriz dos Santos Silva
