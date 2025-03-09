@@ -1,5 +1,5 @@
 ---
-title: Decodificador de Texto
+title: Text Decoder
 external_link: https://github.com/beatrizssaurora/Challenge-Decodificador-de-Texto
 tags:
 ---

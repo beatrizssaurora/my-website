@@ -264,7 +264,7 @@
 
 
 
-&lt;div id=&#34;chart-783641259&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-182459763&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -282,7 +282,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-783641259&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-182459763&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -939,19 +939,19 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
-      <title>Decodificador de Texto</title>
-      <link>http://localhost:1313/project/pandas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pandas/</guid>
-      <description>&lt;p&gt;Programming logic: Develop efficient algorithms to manipulate strings and perform encoding and decoding operations.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Jogo do número secreto</title>
+      <title>Secret Number Game</title>
       <link>http://localhost:1313/project/pytorch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/pytorch/</guid>
       <description>&lt;p&gt;???&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Text Decoder</title>
+      <link>http://localhost:1313/project/pandas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pandas/</guid>
+      <description>&lt;p&gt;Programming logic: Develop efficient algorithms to manipulate strings and perform encoding and decoding operations.&lt;/p&gt;</description>
     </item>
     
   </channel>
