@@ -16,7 +16,7 @@ O uso do Hugo e do Netlify me permite focar na criação de conteúdo de qualida
 * Hugo: Gerador de sites estáticos rápido e flexível.
 Modelo personalizado.
 Alto desempenho.
-* Netlify:Hospedagem de alta velocidade e segura.
+* Netlify: Hospedagem de alta velocidade e segura.
 Implantação contínua.
 Facilidade de uso.
 Manutenção atualizada do site.
