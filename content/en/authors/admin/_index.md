@@ -90,7 +90,7 @@ languages:
   - name: Portuguese
     percent: 100
   - name: English
-    percent: 85
+    percent: 75
   - name: Chinese
     percent: 25
 

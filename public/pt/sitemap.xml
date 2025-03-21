@@ -226,6 +226,34 @@
                 href="http://localhost:1313/pt/post/teach-courses/"
                 />
   </url><url>
+    <loc>http://localhost:1313/pt/teaching/js/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/teaching/js/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:1313/pt/teaching/js/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt/teaching/python/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/teaching/python/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:1313/pt/teaching/python/"
+                />
+  </url><url>
     <loc>http://localhost:1313/pt/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -266,34 +294,6 @@
                 rel="alternate"
                 hreflang="pt"
                 href="http://localhost:1313/pt/tags/javascript/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/pt/teaching/js/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/teaching/js/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://localhost:1313/pt/teaching/js/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/pt/teaching/python/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/teaching/python/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://localhost:1313/pt/teaching/python/"
                 />
   </url><url>
     <loc>http://localhost:1313/pt/tags/python/</loc>
@@ -422,19 +422,6 @@
                 href="http://localhost:1313/pt/publication/conference-paper/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pt/project/pytorch/</loc>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/project/pytorch/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://localhost:1313/pt/project/pytorch/"
-                />
-  </url><url>
     <loc>http://localhost:1313/pt/project/pandas/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -446,6 +433,19 @@
                 rel="alternate"
                 hreflang="pt"
                 href="http://localhost:1313/pt/project/pandas/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt/project/pytorch/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/project/pytorch/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:1313/pt/project/pytorch/"
                 />
   </url>
 </urlset>

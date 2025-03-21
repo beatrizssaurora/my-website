@@ -128,20 +128,6 @@
                 href="http://localhost:1313/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/project/scikit/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://localhost:1313/pt/project/scikit/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/project/scikit/"
-                />
-  </url><url>
     <loc>http://localhost:1313/project/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -168,6 +154,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/tags/second-brain/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/project/scikit/</loc>
+    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:1313/pt/project/scikit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/project/scikit/"
                 />
   </url><url>
     <loc>http://localhost:1313/post/second-brain/</loc>
