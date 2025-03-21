@@ -1,4 +1,4 @@
-![Portfólio](content/authors/admin/sobre.png)
+![Portfólio](content/pt/authors/admin/sobre.png)
 
 # Meu Portfólio 
 
