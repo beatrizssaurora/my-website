@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P | Beatriz Santos</title>
+    <link>http://localhost:1313/tags/p/</link>
+      <atom:link href="http://localhost:1313/tags/p/index.xml" rel="self" type="application/rss+xml" />
+    <description>P</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_b3aa1b3ac648a0b5.png</url>
+      <title>P</title>
+      <link>http://localhost:1313/tags/p/</link>
+    </image>
+    
+    <item>
+      <title>Titanic Survivor Analysis</title>
+      <link>http://localhost:1313/project/scikit/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/scikit/</guid>
+      <description>&lt;p&gt;This project performs an exploratory analysis of the Titanic dataset, with the aim of identifying patterns and factors that influenced passenger survival.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

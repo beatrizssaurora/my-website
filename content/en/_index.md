@@ -65,6 +65,7 @@ sections:
     design:
       view: article-grid
       columns: 3
+      lines: 2
   
  
   
