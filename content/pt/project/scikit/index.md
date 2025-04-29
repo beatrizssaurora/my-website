@@ -2,7 +2,7 @@
 title: Análise de Sobreviventes do Titanic
 date: 2023-10-26
 external_link: https://github.com/beatrizssaurora/Titanic
-tags: 
+tags: PYTHON, Pandas, NumPy, Scikit-Learn
   
 ---
 

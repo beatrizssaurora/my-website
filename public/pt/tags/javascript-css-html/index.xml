@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JAVASCRIPT, CSS, HTML | Beatriz Santos</title>
+    <link>http://localhost:1313/pt/tags/javascript-css-html/</link>
+      <atom:link href="http://localhost:1313/pt/tags/javascript-css-html/index.xml" rel="self" type="application/rss+xml" />
+    <description>JAVASCRIPT, CSS, HTML</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>pt</language>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_b3aa1b3ac648a0b5.png</url>
+      <title>JAVASCRIPT, CSS, HTML</title>
+      <link>http://localhost:1313/pt/tags/javascript-css-html/</link>
+    </image>
+    
+    <item>
+      <title>Decodificador de texto</title>
+      <link>http://localhost:1313/pt/project/pandas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt/project/pandas/</guid>
+      <description>&lt;p&gt;Lógica de programação: Desenvolver algoritmos eficientes para manipular strings e executar operações de codificação e decodificação.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
