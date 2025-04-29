@@ -142,6 +142,10 @@
                 href="http://localhost:1313/project/"
                 />
   </url><url>
+    <loc>http://localhost:1313/tags/python-pandas-numpy-scikit-learn/</loc>
+    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/tags/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -422,6 +426,12 @@
                 href="http://localhost:1313/publication/conference-paper/"
                 />
   </url><url>
+    <loc>http://localhost:1313/tags/excel/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/javascript-css-html/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/project/pytorch/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -434,6 +444,9 @@
                 hreflang="en"
                 href="http://localhost:1313/project/pytorch/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/project/excel/</loc>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/project/pandas/</loc>
     <changefreq>weekly</changefreq>

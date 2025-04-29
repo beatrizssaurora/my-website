@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EXCEL | Beatriz Santos</title>
+    <link>http://localhost:1313/pt/tags/excel/</link>
+      <atom:link href="http://localhost:1313/pt/tags/excel/index.xml" rel="self" type="application/rss+xml" />
+    <description>EXCEL</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>pt</language>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_b3aa1b3ac648a0b5.png</url>
+      <title>EXCEL</title>
+      <link>http://localhost:1313/pt/tags/excel/</link>
+    </image>
+    
+    <item>
+      <title>Cleaning fee</title>
+      <link>http://localhost:1313/pt/project/excel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt/project/excel/</guid>
+      <description>&lt;p&gt;This project, carried out as part of a technical challenge (company omitted) during a Trainee selection process, demonstrates my skills in critical analysis and problem solving. The challenge required the evaluation of the method for calculating the cleaning fee for properties, the reformulation of this design based on the data provided and the proposal of an optimized model to ensure cost adequacy and fairness of the fee.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
